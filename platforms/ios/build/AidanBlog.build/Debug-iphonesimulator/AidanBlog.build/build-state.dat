@@ -1,0 +1,1930 @@
+TAidanBlog
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/Info.plist /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/AidanBlog-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh
+cCpResource AidanBlog/Resources/icons/icon-76.png build/emulator/AidanBlog.app/icon-76.png
+cCpResource AidanBlog/Resources/icons/icon-40@2x.png build/emulator/AidanBlog.app/icon-40@2x.png
+cCpResource AidanBlog/Resources/icons/icon-72.png build/emulator/AidanBlog.app/icon-72.png
+cCpResource AidanBlog/Resources/icons/icon.png build/emulator/AidanBlog.app/icon.png
+cCpResource AidanBlog/Resources/icons/icon@2x.png build/emulator/AidanBlog.app/icon@2x.png
+cCopyStringsFile /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/en.lproj/Localizable.strings AidanBlog/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.xib
+cCpResource AidanBlog/Resources/icons/icon-50.png build/emulator/AidanBlog.app/icon-50.png
+cCpResource AidanBlog/Resources/icons/icon-60@2x.png build/emulator/AidanBlog.app/icon-60@2x.png
+cCopyStringsFile /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/de.lproj/Localizable.strings AidanBlog/Resources/de.lproj/Localizable.strings
+cCpResource AidanBlog/Resources/icons/icon-small.png build/emulator/AidanBlog.app/icon-small.png
+cCpResource AidanBlog/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/AidanBlog.app/Default-Landscape@2x~ipad.png
+cCpResource AidanBlog/Resources/splash/Default-Landscape~ipad.png build/emulator/AidanBlog.app/Default-Landscape~ipad.png
+cCpResource AidanBlog/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/AidanBlog.app/Default-Portrait@2x~ipad.png
+cCpResource AidanBlog/Resources/icons/icon-small@2x.png build/emulator/AidanBlog.app/icon-small@2x.png
+cCpResource AidanBlog/Resources/splash/Default-Portrait~ipad.png build/emulator/AidanBlog.app/Default-Portrait~ipad.png
+cCpResource AidanBlog/Resources/icons/icon-40.png build/emulator/AidanBlog.app/icon-40.png
+cCpResource AidanBlog/Resources/splash/Default@2x~iphone.png build/emulator/AidanBlog.app/Default@2x~iphone.png
+cCpResource AidanBlog/Resources/icons/icon-60.png build/emulator/AidanBlog.app/icon-60.png
+cCpResource AidanBlog/Resources/splash/Default~iphone.png build/emulator/AidanBlog.app/Default~iphone.png
+cCpResource AidanBlog/Resources/splash/Default-568h@2x~iphone.png build/emulator/AidanBlog.app/Default-568h@2x~iphone.png
+cCpResource AidanBlog/Resources/icons/icon-50@2x.png build/emulator/AidanBlog.app/icon-50@2x.png
+cCpResource AidanBlog/Resources/icons/icon-76@2x.png build/emulator/AidanBlog.app/icon-76@2x.png
+cCpResource AidanBlog/Resources/icons/icon-72@2x.png build/emulator/AidanBlog.app/icon-72@2x.png
+cProcessPCH /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch.pch AidanBlog/AidanBlog-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/AidanBlog normal i386
+cGenerateDSYMFile /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app.dSYM /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/AidanBlog
+cTouch /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005347673B0000000000000198
+t1397188411
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005326AD3200000000000003B4
+t1395043634
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005326AD36000000000000019E
+t1395043638
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005326AD370000000000484210
+t1395043639
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c000000005326AD370000000000098030
+t1395043639
+s622640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c000000005326AD360000000000059340
+t1395043638
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005326AD3700000000005B82F0
+t1395043639
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534767190000000000446820
+t1397188377
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005326AD3700000000000F1A80
+t1395043639
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000005326AD37000000000013B8C0
+t1395043639
+s1292480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005326AD38000000000088D8C0
+t1395043640
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005326AD3800000000001BE790
+t1395043640
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005326AD3B0000000001F1DE10
+t1395043643
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005326AD4000000000002BC360
+t1395043648
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005326AD440000000000002338
+t1395043652
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c000000005326AD44000000000008D370
+t1395043652
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c000000005326AD440000000000392E20
+t1395043652
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005320076500000000000141F0
+t1394607973
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c000000005326AD440000000000014A80
+t1395043652
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005326AD440000000000033BA0
+t1395043652
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005326AD44000000000001CFB0
+t1395043652
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005326AD44000000000001B2B0
+t1395043652
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005326AD4400000000000C9570
+t1395043652
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005326AD440000000000063280
+t1395043652
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005326AD440000000000008880
+t1395043652
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005326AD440000000000015080
+t1395043652
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005326AD4400000000000230F0
+t1395043652
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005326AD44000000000000E380
+t1395043652
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005326AD440000000000089380
+t1395043652
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c000000005326AD440000000000017320
+t1395043652
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005326AD440000000000039CD0
+t1395043652
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005326AD44000000000000B0B0
+t1395043652
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005326AD440000000000167E80
+t1395043652
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005326AD4400000000000106A0
+t1395043652
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005326AD44000000000001CE40
+t1395043652
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005326AD4400000000000740C0
+t1395043652
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005326AD44000000000006CA60
+t1395043652
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005326AD44000000000001BAD0
+t1395043652
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005326AD440000000000084A20
+t1395043652
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053476719000000000000514C
+t1397188377
+s20812
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/AidanBlog-Info.plist
+c000000005363029200000000000009DE
+t1398997650
+s2526
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/AidanBlog-Prefix.pch
+c00000000535CDD5000000000000003C9
+t1398594896
+s969
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/AppDelegate.h
+c00000000535CDD5000000000000005BD
+t1398594896
+s1469
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/AppDelegate.m
+c00000000535CDD5000000000000013AF
+t1398594896
+s5039
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.h
+c00000000535CDD5000000000000004D2
+t1398594896
+s1234
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.m
+c00000000535CDD50000000000000126D
+t1398594896
+s4717
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.xib
+c00000000535CDD500000000000001759
+t1398594896
+s5977
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.h
+c00000000535CDD51000000000000037F
+t1398594897
+s895
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m
+c00000000535CDD510000000000000490
+t1398594897
+s1168
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.h
+c00000000535CDD5100000000000003BD
+t1398594897
+s957
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m
+c00000000535CDD510000000000000C22
+t1398594897
+s3106
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/de.lproj/Localizable.strings
+c00000000535CDD5000000000000004C0
+t1398594896
+s1216
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/en.lproj/Localizable.strings
+c00000000535CDD5000000000000004AB
+t1398594896
+s1195
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-40.png
+c00000000535E12AA0000000000000DDD
+t1398674090
+s3549
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-40@2x.png
+c00000000535E127600000000000026A5
+t1398674038
+s9893
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-50.png
+c00000000535E128B00000000000012C7
+t1398674059
+s4807
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-50@2x.png
+c00000000535E129D00000000000037A2
+t1398674077
+s14242
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-60.png
+c00000000535E12640000000000001732
+t1398674020
+s5938
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-60@2x.png
+c00000000535E11EB0000000000004E57
+t1398673899
+s20055
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-72.png
+c00000000535E117A0000000000002019
+t1398673786
+s8217
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-72@2x.png
+c00000000535E10ED000000000000746A
+t1398673645
+s29802
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-76.png
+c00000000535E1205000000000000233C
+t1398673925
+s9020
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-76@2x.png
+c00000000535E121400000000000083EC
+t1398673940
+s33772
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-small.png
+c00000000535CDD500000000000000CDE
+t1398594896
+s3294
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-small@2x.png
+c00000000535CDD5000000000000015E8
+t1398594896
+s5608
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon.png
+c00000000535E11DA000000000000169F
+t1398673882
+s5791
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon@2x.png
+c00000000535E11260000000000004791
+t1398673702
+s18321
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default-568h@2x~iphone.png
+c00000000535E1AFF0000000000057A65
+t1398676223
+s359013
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000535E169F000000000010E3AD
+t1398675103
+s1106861
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default-Landscape~ipad.png
+c00000000535CDD5000000000000166A2
+t1398594896
+s91810
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000535E1866000000000013F1B8
+t1398675558
+s1307064
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default-Portrait~ipad.png
+c00000000535E18DB0000000000056468
+t1398675675
+s353384
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default@2x~iphone.png
+c00000000535E1B3E0000000000056664
+t1398676286
+s353892
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default~iphone.png
+c00000000535E1B530000000000016656
+t1398676307
+s91734
+
+N/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/main.m
+c00000000535CDD50000000000000045E
+t1398594896
+s1118
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AidanBlog.LinkFileList
+c00000000535E0D2F000000000000029F
+t1398672687
+s671
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o
+t1398672691
+s73924
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o
+t1398672691
+s50272
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o
+t1398672691
+s41468
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o
+t1398672691
+s51504
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o
+t1398672691
+s2940
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh
+c00000000535E0D2F000000000000002D
+t1398672687
+s45
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app
+t1398997653
+s1020
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app.dSYM
+t1398850230
+s102
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/AidanBlog
+t1398672691
+s281432
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default-568h@2x~iphone.png
+t1398734621
+s359013
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default-Landscape@2x~ipad.png
+t1398734621
+s1106861
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default-Landscape~ipad.png
+t1398672688
+s91810
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default-Portrait@2x~ipad.png
+t1398734621
+s1307064
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default-Portrait~ipad.png
+t1398734621
+s353384
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default@2x~iphone.png
+t1398734621
+s353892
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default~iphone.png
+t1398734621
+s91734
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Info.plist
+t1398997653
+s1283
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/MainViewController.nib
+t1398672688
+s836
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/PkgInfo
+t2
+s0
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/de.lproj/Localizable.strings
+t1398672688
+s280
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/en.lproj/Localizable.strings
+t1398672688
+s166
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-40.png
+t1398734621
+s3549
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-40@2x.png
+t1398734621
+s9893
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-50.png
+t1398734621
+s4807
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-50@2x.png
+t1398734621
+s14242
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-60.png
+t1398734621
+s5938
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-60@2x.png
+t1398734621
+s20055
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-72.png
+t1398734621
+s8217
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-72@2x.png
+t1398734621
+s29802
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-76.png
+t1398734621
+s9020
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-76@2x.png
+t1398734621
+s33772
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-small.png
+t1398672688
+s3294
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-small@2x.png
+t1398672688
+s5608
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon.png
+t1398734621
+s5791
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon@2x.png
+t1398734621
+s18321
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDV.h
+c00000000535CDD5B0000000000000516
+t1398594907
+s1302
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+c00000000535CDD5B0000000000000CFB
+t1398594907
+s3323
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+c00000000535CDD5B00000000000008BA
+t1398594907
+s2234
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+c00000000535CDD5B00000000000004E2
+t1398594907
+s1250
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+c00000000535CDD5B0000000000000503
+t1398594907
+s1283
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+c00000000535CDD5B0000000000000401
+t1398594907
+s1025
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+c00000000535CDD5B00000000000007E6
+t1398594907
+s2022
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+c00000000535CDD5B00000000000003DA
+t1398594907
+s986
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+c00000000535CDD5B00000000000006CF
+t1398594907
+s1743
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+c00000000535CDD5B0000000000000892
+t1398594907
+s2194
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+c00000000535CDD5B0000000000000C13
+t1398594907
+s3091
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+c00000000535CDD5B0000000000000408
+t1398594907
+s1032
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+c00000000535CDD5B000000000000038D
+t1398594907
+s909
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+c00000000535CDD5B000000000000041C
+t1398594907
+s1052
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+c00000000535CDD5B0000000000000ACC
+t1398594907
+s2764
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+c00000000535CDD5B00000000000004B4
+t1398594907
+s1204
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+c00000000535CDD5B0000000000000392
+t1398594907
+s914
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+c00000000535CDD5B000000000000037D
+t1398594907
+s893
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+c00000000535CDD5B00000000000005DA
+t1398594907
+s1498
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+c00000000535CDD5B00000000000003A0
+t1398594907
+s928
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+c00000000535CDD5B0000000000000476
+t1398594907
+s1142
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/libCordova.a
+c00000000535CDD5C00000000000D3500
+t1398594908
+s865536
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/AidanBlog-Info.plist
+c00000000536302FF00000000000009DE
+t1398997759
+s2526
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/AidanBlog-Prefix.pch
+c00000000535CDD5000000000000003C9
+t1398594896
+s969
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/AppDelegate.m
+c00000000535CDD5000000000000013AF
+t1398594896
+s5039
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.m
+c00000000535CDD50000000000000126D
+t1398594896
+s4717
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.xib
+c00000000535CDD500000000000001759
+t1398594896
+s5977
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m
+c00000000535CDD510000000000000490
+t1398594897
+s1168
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m
+c00000000535CDD510000000000000C22
+t1398594897
+s3106
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/de.lproj/Localizable.strings
+c00000000535CDD5000000000000004C0
+t1398594896
+s1216
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/en.lproj/Localizable.strings
+c00000000535CDD5000000000000004AB
+t1398594896
+s1195
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon-40.png
+c00000000535E12AA0000000000000DDD
+t1398674090
+s3549
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon-40@2x.png
+c00000000535E127600000000000026A5
+t1398674038
+s9893
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon-50.png
+c00000000535E128B00000000000012C7
+t1398674059
+s4807
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon-50@2x.png
+c00000000535E129D00000000000037A2
+t1398674077
+s14242
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon-60.png
+c00000000535E12640000000000001732
+t1398674020
+s5938
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon-60@2x.png
+c00000000535E11EB0000000000004E57
+t1398673899
+s20055
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon-72.png
+c00000000535E117A0000000000002019
+t1398673786
+s8217
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon-72@2x.png
+c00000000535E10ED000000000000746A
+t1398673645
+s29802
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon-76.png
+c00000000535E1205000000000000233C
+t1398673925
+s9020
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon-76@2x.png
+c00000000535E121400000000000083EC
+t1398673940
+s33772
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon-small.png
+c00000000535CDD500000000000000CDE
+t1398594896
+s3294
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon-small@2x.png
+c00000000535CDD5000000000000015E8
+t1398594896
+s5608
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon.png
+c00000000535E11DA000000000000169F
+t1398673882
+s5791
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/icons/icon@2x.png
+c00000000535E11260000000000004791
+t1398673702
+s18321
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/splash/Default-568h@2x~iphone.png
+c00000000535E1AFF0000000000057A65
+t1398676223
+s359013
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000535E169F000000000010E3AD
+t1398675103
+s1106861
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/splash/Default-Landscape~ipad.png
+c00000000535CDD5000000000000166A2
+t1398594896
+s91810
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000535E1866000000000013F1B8
+t1398675558
+s1307064
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/splash/Default-Portrait~ipad.png
+c00000000535E18DB0000000000056468
+t1398675675
+s353384
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/splash/Default@2x~iphone.png
+c00000000535E1B3E0000000000056664
+t1398676286
+s353892
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Resources/splash/Default~iphone.png
+c00000000535E1B530000000000016656
+t1398676307
+s91734
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/main.m
+c00000000535CDD50000000000000045E
+t1398594896
+s1118
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AidanBlog.LinkFileList
+c000000005363030200000000000002B3
+t1398997762
+s691
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o
+t1398997763
+s73940
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o
+t1398997763
+s50288
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o
+t1398997763
+s41484
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o
+t1398997763
+s51520
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o
+t1398997763
+s2948
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh
+c00000000535E0D2F000000000000002D
+t1398672687
+s45
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app
+t1398997763
+s1020
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app.dSYM
+t1398997653
+s102
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/AidanBlog
+t1398997763
+s277484
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/Default-568h@2x~iphone.png
+t1398734621
+s359013
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/Default-Landscape@2x~ipad.png
+t1398734621
+s1106861
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/Default-Landscape~ipad.png
+t1398672688
+s91810
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/Default-Portrait@2x~ipad.png
+t1398734621
+s1307064
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/Default-Portrait~ipad.png
+t1398734621
+s353384
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/Default@2x~iphone.png
+t1398734621
+s353892
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/Default~iphone.png
+t1398734621
+s91734
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/Info.plist
+t1398997762
+s1283
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/MainViewController.nib
+t1398672688
+s836
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/PkgInfo
+t2
+s0
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/de.lproj/Localizable.strings
+t1398672688
+s280
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/en.lproj/Localizable.strings
+t1398672688
+s166
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon-40.png
+t1398734621
+s3549
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon-40@2x.png
+t1398734621
+s9893
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon-50.png
+t1398734621
+s4807
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon-50@2x.png
+t1398734621
+s14242
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon-60.png
+t1398734621
+s5938
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon-60@2x.png
+t1398734621
+s20055
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon-72.png
+t1398734621
+s8217
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon-72@2x.png
+t1398734621
+s29802
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon-76.png
+t1398734621
+s9020
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon-76@2x.png
+t1398734621
+s33772
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon-small.png
+t1398672688
+s3294
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon-small@2x.png
+t1398672688
+s5608
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon.png
+t1398734621
+s5791
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/icon@2x.png
+t1398734621
+s18321
+
+N/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/libCordova.a
+c000000005363030200000000000D3618
+t1398997762
+s865816
+
+N/usr/lib/libSystem.B.dylib
+c000000005307CFD6000000000000E6D0
+t1393020886
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005307CFE20000000000012A00
+t1393020898
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005307CFCB000000000002E320
+t1393020875
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005307CFD60000000000021860
+t1393020886
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005307CFE1000000000001B620
+t1393020897
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005307CFE100000000000BD920
+t1393020897
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005307CFE2000000000000A120
+t1393020898
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053200765000000000001D550
+t1394607973
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005307CFE10000000000014EE0
+t1393020897
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005307CFE30000000000010380
+t1393020899
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005307CFE3000000000000C4C0
+t1393020899
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005307CFE200000000000357A0
+t1393020898
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005307CFE2000000000000C070
+t1393020898
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005320074B0000000000168D00
+t1394607947
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000532007620000000000010630
+t1394607970
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053200765000000000001DF10
+t1394607973
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005307CFD60000000000075B00
+t1393020886
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053579CAB000000000007CC70
+t1398250667
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005307CFD600000000000766C0
+t1393020886
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000532007650000000000044DC0
+t1394607973
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005307CFD60000000000021FA0
+t1393020886
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053200765000000000002D920
+t1394607973
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005307CFE2000000000001E570
+t1393020898
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053200759000000000000CC70
+t1394607961
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005307CFDD000000000000C3F0
+t1393020893
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005307CFE200000000000199F0
+t1393020898
+s104944
+
+N/var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch.pch
+t1398997763
+s5376416
+
+N/var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch.pch
+t1398672691
+s5376320
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies90a0d0823a13b941^3659d7823a13b941^---0#1#1#--18"Check dependencies36"2A0B61B5-3F3C-4F93-A58A-4A3760FC8109-
+
+CCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420365491.081759
+e420365491.201663
+r1
+xCompileC
+xbuild/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o
+x/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/AppDelegate.m
+d/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/AppDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/AppDelegate.m202"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o AidanBlog/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5e1015b3440eb941^6ea133b3440eb941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/AppDelegate.m0000000000000000^3716"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o AidanBlog/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-generated-files.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-own-target-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-all-target-headers.hmap -iquote /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-project-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources/i386 -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.dia -c /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/AppDelegate.m -o /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o36"32596A90-0020-4DB4-B916-A93286140CE8-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420690563.579363
+e420690563.653124
+r1
+xCompileC
+xbuild/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o
+x/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/AppDelegate.m
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/AppDelegate.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/AppDelegate.m202"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o AidanBlog/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf67d94833a13b941^4034a7833a13b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/AppDelegate.m0000000000000000^3893"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o AidanBlog/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myBlogAPP/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-generated-files.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-own-target-headers.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-all-target-headers.hmap -iquote /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-project-headers.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources/i386 -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources -F/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.dia -c /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/AppDelegate.m -o /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o36"8610BE71-9A3D-46D1-AD76-537E6776412E-
+bE7457D9B-CBAC-455B-9F5E-80150AB5D0B8
+
+CCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420365491.082690
+e420365491.214003
+r1
+xCompileC
+xbuild/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o
+x/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+d/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m224"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler514d15b3440eb941^9fc936b3440eb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m0000000000000000^3756"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-generated-files.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-own-target-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-all-target-headers.hmap -iquote /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-project-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources/i386 -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.d --serialize-diagnostics /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.dia -c /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m -o /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o36"2F34E612-EDE6-4147-A1CC-09114044D4F3-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420690563.580618
+e420690563.692171
+r1
+xCompileC
+xbuild/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o
+x/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m224"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler80bb94833a13b941^c632b1833a13b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m0000000000000000^3933"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myBlogAPP/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-generated-files.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-own-target-headers.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-all-target-headers.hmap -iquote /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-project-headers.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources/i386 -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources -F/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.d --serialize-diagnostics /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.dia -c /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.device/CDVDevice.m -o /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o36"576F34F3-59FB-4CF8-A5C8-3FE3645550CD-
+bE7457D9B-CBAC-455B-9F5E-80150AB5D0B8
+
+CCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420365491.082136
+e420365491.208086
+r1
+xCompileC
+xbuild/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o
+x/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m
+d/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m225"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb32715b3440eb941^3d4635b3440eb941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m0000000000000000^3758"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-generated-files.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-own-target-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-all-target-headers.hmap -iquote /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-project-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources/i386 -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.d --serialize-diagnostics /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.dia -c /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m -o /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o36"E300E115-4549-434A-BFF0-FBDC48164980-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420690563.580125
+e420690563.647381
+r1
+xCompileC
+xbuild/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o
+x/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m225"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1bbb94833a13b941^06bba5833a13b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m0000000000000000^3935"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myBlogAPP/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-generated-files.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-own-target-headers.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-all-target-headers.hmap -iquote /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-project-headers.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources/i386 -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources -F/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.d --serialize-diagnostics /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.dia -c /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Plugins/org.apache.cordova.console/CDVLogger.m -o /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o36"9752087A-65F1-43C3-8101-CD6782CD6F1B-
+bE7457D9B-CBAC-455B-9F5E-80150AB5D0B8
+
+CCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420365491.081927
+e420365491.190025
+r1
+xCompileC
+xbuild/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o
+x/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.m
+d/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.m216"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o AidanBlog/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd52315b3440eb941^cea530b3440eb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.m0000000000000000^3758"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o AidanBlog/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-generated-files.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-own-target-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-all-target-headers.hmap -iquote /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-project-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources/i386 -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.dia -c /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.m -o /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o36"A4968B53-FE85-45A0-96E6-46DA4C0F0698-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420690563.579721
+e420690563.647457
+r1
+xCompileC
+xbuild/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o
+x/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.m
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.m216"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o AidanBlog/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf48994833a13b941^adbfa5833a13b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.m0000000000000000^3935"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o AidanBlog/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myBlogAPP/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-generated-files.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-own-target-headers.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-all-target-headers.hmap -iquote /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-project-headers.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources/i386 -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources -F/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.dia -c /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.m -o /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o36"776ABB0A-6718-445B-929F-C33C71A65A97-
+bE7457D9B-CBAC-455B-9F5E-80150AB5D0B8
+
+CCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420365491.081569
+e420365491.147133
+r1
+xCompileC
+xbuild/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o
+x/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/main.m180"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o AidanBlog/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler73f414b3440eb941^71aa25b3440eb941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/Aidan/Project/myApp/platforms/ios/AidanBlog/main.m0000000000000000^3658"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o AidanBlog/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-generated-files.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-own-target-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-all-target-headers.hmap -iquote /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-project-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources/i386 -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.dia -c /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/main.m -o /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o36"DC27F405-CDFE-49C8-BD7E-79C6C4545837-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CCompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420690563.579127
+e420690563.615572
+r1
+xCompileC
+xbuild/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o
+x/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/main.m180"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o AidanBlog/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8d6394833a13b941^53969d833a13b941^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/main.m0000000000000000^3835"CompileC build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o AidanBlog/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myBlogAPP/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-generated-files.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-own-target-headers.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-all-target-headers.hmap -iquote /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-project-headers.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources/i386 -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources -F/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.dia -c /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/main.m -o /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o36"B2EE2CE0-012E-45FB-84AD-A9E202719E1F-
+bE7457D9B-CBAC-455B-9F5E-80150AB5D0B8
+
+CCompileXIB /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.xib
+s420365488.023175
+e420365489.269155
+r1
+xCompileXIB
+x/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.xib
+o2014-04-28 16:11:28.865 Interface Builder Cocoa Touch Tool[21021:303] CFPreferences: user home directory at file:///Users/Aidan/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.xib51"CompileXIB AidanBlog/Classes/MainViewController.xib950e06b0440eb941^f7e944b1440eb941^-230"2014-04-28 16:11:28.865 Interface Builder Cocoa Touch Tool[21021:303] CFPreferences: user home directory at file:///Users/Aidan/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.xib0000000000000000^935"CompileXIB AidanBlog/Classes/MainViewController.xib    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/MainViewController.nib /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Classes/MainViewController.xib36"26088185-8C2E-488F-848C-4621A7B7631B-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CCompileXIB /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/Classes/MainViewController.xib
+r0
+
+CCopyStringsFile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/de.lproj/Localizable.strings AidanBlog/Resources/de.lproj/Localizable.strings
+s420365488.024006
+e420365488.025662
+r1
+xCopyStringsFile
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/de.lproj/Localizable.strings
+xAidanBlog/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy AidanBlog/Resources/de.lproj/Localizable.strings122"CopyStringsFile build/emulator/AidanBlog.app/de.lproj/Localizable.strings AidanBlog/Resources/de.lproj/Localizable.strings793b06b0440eb941^6fb906b0440eb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/de.lproj/Localizable.strings0000000000000000^747"CopyStringsFile build/emulator/AidanBlog.app/de.lproj/Localizable.strings AidanBlog/Resources/de.lproj/Localizable.strings    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/de.lproj -- AidanBlog/Resources/de.lproj/Localizable.strings36"3E627CF1-B43F-4D46-957B-2BFB1B19CAC3-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CCopyStringsFile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/en.lproj/Localizable.strings AidanBlog/Resources/en.lproj/Localizable.strings
+s420365488.022520
+e420365488.024638
+r1
+xCopyStringsFile
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/en.lproj/Localizable.strings
+xAidanBlog/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy AidanBlog/Resources/en.lproj/Localizable.strings122"CopyStringsFile build/emulator/AidanBlog.app/en.lproj/Localizable.strings AidanBlog/Resources/en.lproj/Localizable.stringsfddb05b0440eb941^306306b0440eb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/en.lproj/Localizable.strings0000000000000000^747"CopyStringsFile build/emulator/AidanBlog.app/en.lproj/Localizable.strings AidanBlog/Resources/en.lproj/Localizable.strings    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/en.lproj -- AidanBlog/Resources/en.lproj/Localizable.strings36"A3A6A8B4-5AEC-4430-9FCF-E318E7446E22-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CCopyStringsFile /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/de.lproj/Localizable.strings AidanBlog/Resources/de.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/en.lproj/Localizable.strings AidanBlog/Resources/en.lproj/Localizable.strings
+r0
+
+CCpResource AidanBlog/Resources/icons/icon-40.png build/emulator/AidanBlog.app/icon-40.png
+s420427421.209907
+e420427421.214846
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon-40.png
+xbuild/emulator/AidanBlog.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/emulator/AidanBlog.app/icon-40.png89"CpResource AidanBlog/Resources/icons/icon-40.png build/emulator/AidanBlog.app/icon-40.png3aca359d360fb941^54fd369d360fb941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-40.png0000000000000000^754"CpResource AidanBlog/Resources/icons/icon-40.png build/emulator/AidanBlog.app/icon-40.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-40.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"19FD6F42-4A4F-4E95-98FD-C89F6285CE04-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/icons/icon-40@2x.png build/emulator/AidanBlog.app/icon-40@2x.png
+s420427421.206677
+e420427421.208285
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon-40@2x.png
+xbuild/emulator/AidanBlog.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/AidanBlog.app/icon-40@2x.png95"CpResource AidanBlog/Resources/icons/icon-40@2x.png build/emulator/AidanBlog.app/icon-40@2x.png27f6349d360fb941^d252359d360fb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-40@2x.png0000000000000000^763"CpResource AidanBlog/Resources/icons/icon-40@2x.png build/emulator/AidanBlog.app/icon-40@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-40@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"B4A15BA4-45DE-431B-910E-A16ED5E560E6-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/icons/icon-50.png build/emulator/AidanBlog.app/icon-50.png
+s420427421.208074
+e420427421.210039
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon-50.png
+xbuild/emulator/AidanBlog.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/emulator/AidanBlog.app/icon-50.png89"CpResource AidanBlog/Resources/icons/icon-50.png build/emulator/AidanBlog.app/icon-50.pngfc8a359d360fb941^1ec5359d360fb941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-50.png0000000000000000^754"CpResource AidanBlog/Resources/icons/icon-50.png build/emulator/AidanBlog.app/icon-50.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-50.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"6F0A0931-63CF-49F5-846A-BBADCC993FFF-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/icons/icon-50@2x.png build/emulator/AidanBlog.app/icon-50@2x.png
+s420427421.214985
+e420427421.222193
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon-50@2x.png
+xbuild/emulator/AidanBlog.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/AidanBlog.app/icon-50@2x.png95"CpResource AidanBlog/Resources/icons/icon-50@2x.png build/emulator/AidanBlog.app/icon-50@2x.png1024379d360fb941^82e5389d360fb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-50@2x.png0000000000000000^763"CpResource AidanBlog/Resources/icons/icon-50@2x.png build/emulator/AidanBlog.app/icon-50@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-50@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"BDF9EE6A-AE92-4E72-AFF3-EED8BCD94FA0-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/icons/icon-60.png build/emulator/AidanBlog.app/icon-60.png
+s420427421.210402
+e420427421.215008
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon-60.png
+xbuild/emulator/AidanBlog.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/emulator/AidanBlog.app/icon-60.png89"CpResource AidanBlog/Resources/icons/icon-60.png build/emulator/AidanBlog.app/icon-60.png42eb359d360fb941^e50a379d360fb941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-60.png0000000000000000^754"CpResource AidanBlog/Resources/icons/icon-60.png build/emulator/AidanBlog.app/icon-60.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-60.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"17B5DF78-5C7F-47C0-B574-F3A73F26ABDD-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/icons/icon-60@2x.png build/emulator/AidanBlog.app/icon-60@2x.png
+s420427421.208080
+e420427421.209153
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon-60@2x.png
+xbuild/emulator/AidanBlog.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/AidanBlog.app/icon-60@2x.png95"CpResource AidanBlog/Resources/icons/icon-60@2x.png build/emulator/AidanBlog.app/icon-60@2x.pngbe4f359d360fb941^cfa0359d360fb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-60@2x.png0000000000000000^763"CpResource AidanBlog/Resources/icons/icon-60@2x.png build/emulator/AidanBlog.app/icon-60@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-60@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"083C2967-6D8D-4D3F-9A8C-FA2B0496C58D-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/icons/icon-72.png build/emulator/AidanBlog.app/icon-72.png
+s420427421.206742
+e420427421.208845
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon-72.png
+xbuild/emulator/AidanBlog.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/emulator/AidanBlog.app/icon-72.png89"CpResource AidanBlog/Resources/icons/icon-72.png build/emulator/AidanBlog.app/icon-72.png0003359d360fb941^f580359d360fb941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-72.png0000000000000000^754"CpResource AidanBlog/Resources/icons/icon-72.png build/emulator/AidanBlog.app/icon-72.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-72.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"69732D91-E995-4EA3-AE33-BCA3D6DC6712-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/icons/icon-72@2x.png build/emulator/AidanBlog.app/icon-72@2x.png
+s420427421.215383
+e420427421.222487
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon-72@2x.png
+xbuild/emulator/AidanBlog.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/AidanBlog.app/icon-72@2x.png95"CpResource AidanBlog/Resources/icons/icon-72@2x.png build/emulator/AidanBlog.app/icon-72@2x.png8637379d360fb941^f71f399d360fb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-72@2x.png0000000000000000^763"CpResource AidanBlog/Resources/icons/icon-72@2x.png build/emulator/AidanBlog.app/icon-72@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-72@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"801BE35D-DA72-46E8-B999-FC616B2FB3C6-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/icons/icon-76.png build/emulator/AidanBlog.app/icon-76.png
+s420427421.206523
+e420427421.208706
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon-76.png
+xbuild/emulator/AidanBlog.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/emulator/AidanBlog.app/icon-76.png89"CpResource AidanBlog/Resources/icons/icon-76.png build/emulator/AidanBlog.app/icon-76.pngb1f9349d360fb941^fe63359d360fb941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-76.png0000000000000000^754"CpResource AidanBlog/Resources/icons/icon-76.png build/emulator/AidanBlog.app/icon-76.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-76.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"C69254A4-A364-4108-B5C0-C0B9DBE39D1A-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/icons/icon-76@2x.png build/emulator/AidanBlog.app/icon-76@2x.png
+s420427421.215069
+e420427421.222445
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon-76@2x.png
+xbuild/emulator/AidanBlog.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/AidanBlog.app/icon-76@2x.png95"CpResource AidanBlog/Resources/icons/icon-76@2x.png build/emulator/AidanBlog.app/icon-76@2x.pngb62c379d360fb941^dc12399d360fb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-76@2x.png0000000000000000^763"CpResource AidanBlog/Resources/icons/icon-76@2x.png build/emulator/AidanBlog.app/icon-76@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-76@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"8B61554B-BA95-40DE-90C8-B4C5349F5EB0-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/icons/icon-small.png build/emulator/AidanBlog.app/icon-small.png
+s420365488.024272
+e420365488.025544
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon-small.png
+xbuild/emulator/AidanBlog.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/AidanBlog.app/icon-small.png95"CpResource AidanBlog/Resources/icons/icon-small.png build/emulator/AidanBlog.app/icon-small.png295906b0440eb941^43ac06b0440eb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-small.png0034a400dfffdf42^763"CpResource AidanBlog/Resources/icons/icon-small.png build/emulator/AidanBlog.app/icon-small.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-small.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"5E33B8DE-7717-438D-A337-8E8628C27BCE-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CCpResource AidanBlog/Resources/icons/icon-small@2x.png build/emulator/AidanBlog.app/icon-small@2x.png
+s420365488.026215
+e420365488.027055
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon-small@2x.png
+xbuild/emulator/AidanBlog.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/AidanBlog.app/icon-small@2x.png101"CpResource AidanBlog/Resources/icons/icon-small@2x.png build/emulator/AidanBlog.app/icon-small@2x.png54c706b0440eb941^6efb06b0440eb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon-small@2x.png0034a400dfffdf42^772"CpResource AidanBlog/Resources/icons/icon-small@2x.png build/emulator/AidanBlog.app/icon-small@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon-small@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"63FB0780-F932-4915-B330-0BF6C93DF7CF-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CCpResource AidanBlog/Resources/icons/icon.png build/emulator/AidanBlog.app/icon.png
+s420427421.206970
+e420427421.208596
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon.png
+xbuild/emulator/AidanBlog.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy build/emulator/AidanBlog.app/icon.png83"CpResource AidanBlog/Resources/icons/icon.png build/emulator/AidanBlog.app/icon.pngec12359d360fb941^7174359d360fb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon.png0000000000000000^745"CpResource AidanBlog/Resources/icons/icon.png build/emulator/AidanBlog.app/icon.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"013C5F6C-CD24-42D2-91AB-7913FA2F61CF-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/icons/icon@2x.png build/emulator/AidanBlog.app/icon@2x.png
+s420427421.207358
+e420427421.208957
+r1
+xCpResource
+xAidanBlog/Resources/icons/icon@2x.png
+xbuild/emulator/AidanBlog.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/emulator/AidanBlog.app/icon@2x.png89"CpResource AidanBlog/Resources/icons/icon@2x.png build/emulator/AidanBlog.app/icon@2x.pngfe29359d360fb941^7d94359d360fb941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/icon@2x.png0000000000000000^754"CpResource AidanBlog/Resources/icons/icon@2x.png build/emulator/AidanBlog.app/icon@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/icons/icon@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"F7891202-CC92-40E0-AF0A-6999676292CA-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/splash/Default-568h@2x~iphone.png build/emulator/AidanBlog.app/Default-568h@2x~iphone.png
+s420427421.210722
+e420427421.222376
+r1
+xCpResource
+xAidanBlog/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/AidanBlog.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/AidanBlog.app/Default-568h@2x~iphone.png120"CpResource AidanBlog/Resources/splash/Default-568h@2x~iphone.png build/emulator/AidanBlog.app/Default-568h@2x~iphone.png4cfc359d360fb941^7bfa389d360fb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default-568h@2x~iphone.png0000000000000000^801"CpResource AidanBlog/Resources/splash/Default-568h@2x~iphone.png build/emulator/AidanBlog.app/Default-568h@2x~iphone.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default-568h@2x~iphone.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"747BC655-3CE4-4E2D-A743-43A5A69A3ECA-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/AidanBlog.app/Default-Landscape@2x~ipad.png
+s420427421.208560
+e420427421.222386
+r1
+xCpResource
+xAidanBlog/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/AidanBlog.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/AidanBlog.app/Default-Landscape@2x~ipad.png126"CpResource AidanBlog/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/AidanBlog.app/Default-Landscape@2x~ipad.png6f80359d360fb941^1805399d360fb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default-Landscape@2x~ipad.png0000000000000000^810"CpResource AidanBlog/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/AidanBlog.app/Default-Landscape@2x~ipad.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default-Landscape@2x~ipad.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"BE1EA7EF-53D8-43FB-A372-2E0E7B91C089-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/splash/Default-Landscape~ipad.png build/emulator/AidanBlog.app/Default-Landscape~ipad.png
+s420365488.025122
+e420365488.026806
+r1
+xCpResource
+xAidanBlog/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/AidanBlog.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/AidanBlog.app/Default-Landscape~ipad.png120"CpResource AidanBlog/Resources/splash/Default-Landscape~ipad.png build/emulator/AidanBlog.app/Default-Landscape~ipad.png789c06b0440eb941^54e606b0440eb941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default-Landscape~ipad.png0034a400dfffdf42^801"CpResource AidanBlog/Resources/splash/Default-Landscape~ipad.png build/emulator/AidanBlog.app/Default-Landscape~ipad.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default-Landscape~ipad.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"FCBAAA24-F151-4B61-99F3-FDB96DF11C35-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CCpResource AidanBlog/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/AidanBlog.app/Default-Portrait@2x~ipad.png
+s420427421.209354
+e420427421.222351
+r1
+xCpResource
+xAidanBlog/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/AidanBlog.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/emulator/AidanBlog.app/Default-Portrait@2x~ipad.png124"CpResource AidanBlog/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/AidanBlog.app/Default-Portrait@2x~ipad.pngcaa9359d360fb941^b6f4389d360fb941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default-Portrait@2x~ipad.png0000000000000000^807"CpResource AidanBlog/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/AidanBlog.app/Default-Portrait@2x~ipad.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default-Portrait@2x~ipad.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"DF8EA719-456C-4DE2-8D4F-7CD7470B5F05-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/splash/Default-Portrait~ipad.png build/emulator/AidanBlog.app/Default-Portrait~ipad.png
+s420427421.209712
+e420427421.214681
+r1
+xCpResource
+xAidanBlog/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/AidanBlog.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/emulator/AidanBlog.app/Default-Portrait~ipad.png118"CpResource AidanBlog/Resources/splash/Default-Portrait~ipad.png build/emulator/AidanBlog.app/Default-Portrait~ipad.pngfdc0359d360fb941^73f6369d360fb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default-Portrait~ipad.png0000000000000000^798"CpResource AidanBlog/Resources/splash/Default-Portrait~ipad.png build/emulator/AidanBlog.app/Default-Portrait~ipad.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default-Portrait~ipad.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"ADC39333-3F68-4489-9081-8831C08232DE-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/splash/Default@2x~iphone.png build/emulator/AidanBlog.app/Default@2x~iphone.png
+s420427421.210255
+e420427421.222433
+r1
+xCpResource
+xAidanBlog/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/AidanBlog.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/emulator/AidanBlog.app/Default@2x~iphone.png110"CpResource AidanBlog/Resources/splash/Default@2x~iphone.png build/emulator/AidanBlog.app/Default@2x~iphone.png5ce5359d360fb941^6a15399d360fb941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default@2x~iphone.png0000000000000000^786"CpResource AidanBlog/Resources/splash/Default@2x~iphone.png build/emulator/AidanBlog.app/Default@2x~iphone.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default@2x~iphone.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"046749FA-AE49-4DE1-953D-D58327ABB4B8-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CCpResource AidanBlog/Resources/splash/Default~iphone.png build/emulator/AidanBlog.app/Default~iphone.png
+s420427421.210475
+e420427421.215326
+r1
+xCpResource
+xAidanBlog/Resources/splash/Default~iphone.png
+xbuild/emulator/AidanBlog.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/AidanBlog.app/Default~iphone.png104"CpResource AidanBlog/Resources/splash/Default~iphone.png build/emulator/AidanBlog.app/Default~iphone.pnge1ed359d360fb941^4c1a379d360fb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Default~iphone.png0000000000000000^777"CpResource AidanBlog/Resources/splash/Default~iphone.png build/emulator/AidanBlog.app/Default~iphone.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/Resources/splash/Default~iphone.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"2D2B9CC9-AEA6-4BDE-8AA0-782E8BC0D236-
+b8AA45095-DAA7-4FD9-916E-130A1569ADD8
+
+CGenerateDSYMFile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app.dSYM /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/AidanBlog
+s420690453.704763
+e420690453.811849
+r1
+xGenerateDSYMFile
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app.dSYM
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/AidanBlog
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Generate /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app.dSYM89"GenerateDSYMFile build/emulator/AidanBlog.app.dSYM build/emulator/AidanBlog.app/AidanBlogc479b4153a13b941^9dd4cf153a13b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app.dSYM/0000000000000000^864"GenerateDSYMFile build/emulator/AidanBlog.app.dSYM build/emulator/AidanBlog.app/AidanBlog    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/AidanBlog -o /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app.dSYM36"E52414EF-35D6-4A36-8364-A5FA95BB89C4-
+bE1BAFBEF-496C-4B65-AC02-6F9E5835EB5E
+
+CGenerateDSYMFile /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app.dSYM /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/AidanBlog
+s420690563.861452
+e420690563.897657
+r1
+xGenerateDSYMFile
+x/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app.dSYM
+x/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/AidanBlog
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Generate /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app.dSYM89"GenerateDSYMFile build/emulator/AidanBlog.app.dSYM build/emulator/AidanBlog.app/AidanBlog9e95dc833a13b941^0ccde5833a13b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app.dSYM/0000000000000000^876"GenerateDSYMFile build/emulator/AidanBlog.app.dSYM build/emulator/AidanBlog.app/AidanBlog    cd /Users/Aidan/Project/myBlogAPP/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/AidanBlog -o /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app.dSYM36"DB642F7B-4BB0-4DA4-8BF1-77411EA0CE26-
+bE7457D9B-CBAC-455B-9F5E-80150AB5D0B8
+
+CLd /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/AidanBlog normal i386
+s420365491.215586
+e420365491.599540
+r1
+xLd
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/AidanBlog
+xnormal
+xi386
+d/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AidanBlog.LinkFileList
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o
+d/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o
+d/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o
+d/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o
+d/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Link /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/AidanBlog53"Ld build/emulator/AidanBlog.app/AidanBlog normal i386e14137b3440eb941^3d7c99b3440eb941^---0#0#1#--1783"Ld build/emulator/AidanBlog.app/AidanBlog normal i386    cd /Users/Aidan/Project/myApp/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Aidan/Project/myApp/platforms/ios/build/emulator -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator -filelist /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AidanBlog.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/Aidan/Project/myApp/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/Aidan/Project/myApp/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AidanBlog_dependency_info.dat -o /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/AidanBlog36"9BFED6DA-8749-4C9D-8C86-4F9AE04F6D14-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CLd /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/AidanBlog normal i386
+s420690563.692895
+e420690563.860736
+r1
+xLd
+x/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/AidanBlog
+xnormal
+xi386
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AidanBlog.LinkFileList
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/main.o
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AppDelegate.o
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/MainViewController.o
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVLogger.o
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/CDVDevice.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Link /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/AidanBlog53"Ld build/emulator/AidanBlog.app/AidanBlog normal i3868673b1833a13b941^815adc833a13b941^---0#0#1#--1928"Ld build/emulator/AidanBlog.app/AidanBlog normal i386    cd /Users/Aidan/Project/myBlogAPP/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -F/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -filelist /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AidanBlog.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Objects-normal/i386/AidanBlog_dependency_info.dat -o /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/AidanBlog36"67AA70E9-F9CB-4452-9AAB-70E3A25632EF-
+bE7457D9B-CBAC-455B-9F5E-80150AB5D0B8
+
+CPhaseScriptExecution Copy\ www\ directory /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh
+s420690453.064551
+e420690453.690341
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.603s
+ouser	0m0.060s
+osys	0m0.088s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'136"PhaseScriptExecution Copy\ www\ directory build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh0dc610153a13b941^78b9b0153a13b941^-42"real	0m0.603suser	0m0.060ssys	0m0.088s3(21%IDEActivityLogMessage2@14"real	0m0.603s-420690453#1#14#-0#-----2@14"user	0m0.060s-420690453#15#14#-0#-----2@13"sys	0m0.088s-420690453#29#13#-0#-----0#0#1#--336"PhaseScriptExecution Copy\ www\ directory build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Aidan/Project/myApp/platforms/ios    /bin/sh -c /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh36"1FE634E9-A321-419D-B7B2-1239EA65A90C-
+bE1BAFBEF-496C-4B65-AC02-6F9E5835EB5E
+
+CPhaseScriptExecution Copy\ www\ directory /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh
+s420690562.847427
+e420690563.365313
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.504s
+ouser	0m0.057s
+osys	0m0.084s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'136"PhaseScriptExecution Copy\ www\ directory build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh5a2cd9823a13b941^6a855d833a13b941^-42"real	0m0.504suser	0m0.057ssys	0m0.084s3(21%IDEActivityLogMessage2@14"real	0m0.504s-420690563#1#14#-0#-----2@14"user	0m0.057s-420690563#15#14#-0#-----2@13"sys	0m0.084s-420690563#29#13#-0#-----0#0#1#--344"PhaseScriptExecution Copy\ www\ directory build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Aidan/Project/myBlogAPP/platforms/ios    /bin/sh -c /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/Script-304B58A110DAC018002A0835.sh36"D25AB5C3-401A-49CA-978B-289C07B51642-
+bE7457D9B-CBAC-455B-9F5E-80150AB5D0B8
+
+CProcessInfoPlistFile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Info.plist /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/AidanBlog-Info.plist
+s420690453.058877
+e420690453.063818
+r1
+xProcessInfoPlistFile
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Info.plist
+x/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/AidanBlog-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Process /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/AidanBlog-Info.plist91"ProcessInfoPlistFile build/emulator/AidanBlog.app/Info.plist AidanBlog/AidanBlog-Info.plist0f430f153a13b941^2a5710153a13b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/Aidan/Project/myApp/platforms/ios/AidanBlog/AidanBlog-Info.plist0000000000000000^945"ProcessInfoPlistFile build/emulator/AidanBlog.app/Info.plist AidanBlog/AidanBlog-Info.plist    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    builtin-infoPlistUtility /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/AidanBlog-Info.plist -genpkginfo /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app/Info.plist36"DD805898-C4DF-488C-9308-055774FA6447-
+bE1BAFBEF-496C-4B65-AC02-6F9E5835EB5E
+
+CProcessInfoPlistFile /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/Info.plist /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/AidanBlog-Info.plist
+s420690562.841634
+e420690562.846708
+r1
+xProcessInfoPlistFile
+x/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/Info.plist
+x/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/AidanBlog-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Process /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/AidanBlog-Info.plist91"ProcessInfoPlistFile build/emulator/AidanBlog.app/Info.plist AidanBlog/AidanBlog-Info.plistb685d7823a13b941^c6c2d8823a13b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/AidanBlog-Info.plist0000000000000000^961"ProcessInfoPlistFile build/emulator/AidanBlog.app/Info.plist AidanBlog/AidanBlog-Info.plist    cd /Users/Aidan/Project/myBlogAPP/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    builtin-infoPlistUtility /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/AidanBlog-Info.plist -genpkginfo /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app/Info.plist36"60669670-5A50-45E0-922A-FB593F899820-
+bE7457D9B-CBAC-455B-9F5E-80150AB5D0B8
+
+CProcessPCH /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch.pch AidanBlog/AidanBlog-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420690563.367446
+e420690563.578459
+r1
+xProcessPCH
+x/var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch.pch
+xAidanBlog/AidanBlog-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/AidanBlog-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile AidanBlog/AidanBlog-Prefix.pch298"ProcessPCH /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch.pch AidanBlog/AidanBlog-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7d235e833a13b941^551794833a13b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/AidanBlog-Prefix.pch0000000000000000^3947"ProcessPCH /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch.pch AidanBlog/AidanBlog-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myBlogAPP/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-generated-files.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-own-target-headers.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-all-target-headers.hmap -iquote /Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-project-headers.hmap -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources/i386 -I/Users/Aidan/Project/myBlogAPP/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources -F/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator --serialize-diagnostics /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch.d -c /Users/Aidan/Project/myBlogAPP/platforms/ios/AidanBlog/AidanBlog-Prefix.pch -o /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-exfsbgddfhffmhfbfkzyouyfbzud/AidanBlog-Prefix.pch.pch36"F37A8CF6-15B7-4F27-BC08-83DF0B717FEE-
+bE7457D9B-CBAC-455B-9F5E-80150AB5D0B8
+
+CProcessPCH /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch.pch AidanBlog/AidanBlog-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420365489.269903
+e420365491.081032
+r1
+xProcessPCH
+x/var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch.pch
+xAidanBlog/AidanBlog-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myApp/platforms/ios/AidanBlog/AidanBlog-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile AidanBlog/AidanBlog-Prefix.pch298"ProcessPCH /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch.pch AidanBlog/AidanBlog-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler723245b1440eb941^5dbf14b3440eb941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/Aidan/Project/myApp/platforms/ios/AidanBlog/AidanBlog-Prefix.pch0000000000000000^3782"ProcessPCH /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch.pch AidanBlog/AidanBlog-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-generated-files.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-own-target-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-all-target-headers.hmap -iquote /Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/AidanBlog-project-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources/i386 -I/Users/Aidan/Project/myApp/platforms/ios/build/AidanBlog.build/Debug-iphonesimulator/AidanBlog.build/DerivedSources -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator --serialize-diagnostics /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch.d -c /Users/Aidan/Project/myApp/platforms/ios/AidanBlog/AidanBlog-Prefix.pch -o /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AidanBlog-Prefix-frbagcoepbclzobsskbdyhuosyyr/AidanBlog-Prefix.pch.pch36"70E5B577-9592-4565-A73B-37714000D1F0-
+b36B09441-E120-4FCF-B936-71F560D7AD4D
+
+CTouch /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app
+s420690453.812468
+e420690453.823552
+r1
+xTouch
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Touch /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app34"Touch build/emulator/AidanBlog.app240bd0153a13b941^d4d4d2153a13b941^---0#0#1#--643"Touch build/emulator/AidanBlog.app    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    /usr/bin/touch -c /Users/Aidan/Project/myApp/platforms/ios/build/emulator/AidanBlog.app36"5BC1CF84-C8E2-431E-8A81-9C1CF7AAC6CC-
+bE1BAFBEF-496C-4B65-AC02-6F9E5835EB5E
+
+CTouch /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app
+s420690563.898205
+e420690563.902405
+r1
+xTouch
+x/Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Touch /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app34"Touch build/emulator/AidanBlog.app9cfde5833a13b941^9b04e7833a13b941^---0#0#1#--651"Touch build/emulator/AidanBlog.app    cd /Users/Aidan/Project/myBlogAPP/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle/sdk/tools:/Applications/adt-bundle/sdk/platform-tools:/Application/adt-bundle/sdk/tools:/Users/Aidan/.rvm/bin"    /usr/bin/touch -c /Users/Aidan/Project/myBlogAPP/platforms/ios/build/emulator/AidanBlog.app36"3C4E9124-9C71-48DD-8C54-52BDD99F8A1A-
+bE7457D9B-CBAC-455B-9F5E-80150AB5D0B8
+

@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m \
+  /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDV.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVDebug.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVTimer.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h \
+  /Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVJSON.h

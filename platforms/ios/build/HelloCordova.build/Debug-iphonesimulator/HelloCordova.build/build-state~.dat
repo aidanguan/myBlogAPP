@@ -1,0 +1,911 @@
+THelloCordova
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Info.plist /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh
+cCpResource HelloCordova/Resources/icons/icon-76.png build/emulator/HelloCordova.app/icon-76.png
+cCpResource HelloCordova/Resources/icons/icon-40@2x.png build/emulator/HelloCordova.app/icon-40@2x.png
+cCpResource HelloCordova/Resources/icons/icon-72.png build/emulator/HelloCordova.app/icon-72.png
+cCpResource HelloCordova/Resources/icons/icon.png build/emulator/HelloCordova.app/icon.png
+cCpResource HelloCordova/Resources/icons/icon@2x.png build/emulator/HelloCordova.app/icon@2x.png
+cCopyStringsFile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/en.lproj/Localizable.strings HelloCordova/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib
+cCpResource HelloCordova/Resources/icons/icon-50.png build/emulator/HelloCordova.app/icon-50.png
+cCpResource HelloCordova/Resources/icons/icon-60@2x.png build/emulator/HelloCordova.app/icon-60@2x.png
+cCopyStringsFile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/de.lproj/Localizable.strings HelloCordova/Resources/de.lproj/Localizable.strings
+cCpResource HelloCordova/Resources/icons/icon-small.png build/emulator/HelloCordova.app/icon-small.png
+cCpResource HelloCordova/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png
+cCpResource HelloCordova/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloCordova.app/Default-Landscape~ipad.png
+cCpResource HelloCordova/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png
+cCpResource HelloCordova/Resources/icons/icon-small@2x.png build/emulator/HelloCordova.app/icon-small@2x.png
+cCpResource HelloCordova/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloCordova.app/Default-Portrait~ipad.png
+cCpResource HelloCordova/Resources/icons/icon-40.png build/emulator/HelloCordova.app/icon-40.png
+cCpResource HelloCordova/Resources/splash/Default@2x~iphone.png build/emulator/HelloCordova.app/Default@2x~iphone.png
+cCpResource HelloCordova/Resources/icons/icon-60.png build/emulator/HelloCordova.app/icon-60.png
+cCpResource HelloCordova/Resources/splash/Default~iphone.png build/emulator/HelloCordova.app/Default~iphone.png
+cCpResource HelloCordova/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloCordova.app/Default-568h@2x~iphone.png
+cCpResource HelloCordova/Resources/icons/icon-50@2x.png build/emulator/HelloCordova.app/icon-50@2x.png
+cCpResource HelloCordova/Resources/icons/icon-76@2x.png build/emulator/HelloCordova.app/icon-76@2x.png
+cCpResource HelloCordova/Resources/icons/icon-72@2x.png build/emulator/HelloCordova.app/icon-72@2x.png
+cProcessPCH /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch.pch HelloCordova/HelloCordova-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova normal i386
+cGenerateDSYMFile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova
+cTouch /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005347673B0000000000000198
+t1397188411
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005326AD3200000000000003B4
+t1395043634
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005326AD36000000000000019E
+t1395043638
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c000000005326AD360000000000059340
+t1395043638
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534767190000000000446820
+t1397188377
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005326AD3700000000000F1A80
+t1395043639
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000005326AD3800000000001BE790
+t1395043640
+s1828752
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m
+c00000000535CDD5000000000000013AF
+t1398594896
+s5039
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m
+c00000000535CDD50000000000000126D
+t1398594896
+s4717
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib
+c00000000535CDD500000000000001759
+t1398594896
+s5977
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist
+c00000000535CDD5A0000000000000A16
+t1398594906
+s2582
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/HelloCordova-Prefix.pch
+c00000000535CDD5000000000000003C9
+t1398594896
+s969
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m
+c00000000535CDD510000000000000490
+t1398594897
+s1168
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m
+c00000000535CDD510000000000000C22
+t1398594897
+s3106
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/de.lproj/Localizable.strings
+c00000000535CDD5000000000000004C0
+t1398594896
+s1216
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/en.lproj/Localizable.strings
+c00000000535CDD5000000000000004AB
+t1398594896
+s1195
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-40.png
+c00000000535CDD500000000000000FF2
+t1398594896
+s4082
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-40@2x.png
+c00000000535CDD500000000000001CF3
+t1398594896
+s7411
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-50.png
+c00000000535CDD50000000000000130A
+t1398594896
+s4874
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-50@2x.png
+c00000000535CDD50000000000000258B
+t1398594896
+s9611
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-60.png
+c00000000535CDD5000000000000016B3
+t1398594896
+s5811
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-60@2x.png
+c00000000535CDD500000000000002E94
+t1398594896
+s11924
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-72.png
+c00000000535CDD500000000000001350
+t1398594896
+s4944
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-72@2x.png
+c00000000535CDD500000000000002DBA
+t1398594896
+s11706
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-76.png
+c00000000535CDD500000000000001B71
+t1398594896
+s7025
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-76@2x.png
+c00000000535CDD500000000000003B9E
+t1398594896
+s15262
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-small.png
+c00000000535CDD500000000000000CDE
+t1398594896
+s3294
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-small@2x.png
+c00000000535CDD5000000000000015E8
+t1398594896
+s5608
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon.png
+c00000000535CDD500000000000000F3E
+t1398594896
+s3902
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon@2x.png
+c00000000535CDD500000000000001EBD
+t1398594896
+s7869
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default-568h@2x~iphone.png
+c00000000535CDD5000000000000085B1
+t1398594896
+s34225
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000535CDD500000000000033D0A
+t1398594896
+s212234
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Landscape~ipad.png
+c00000000535CDD5000000000000166A2
+t1398594896
+s91810
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000535CDD500000000000033F7C
+t1398594896
+s212860
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Portrait~ipad.png
+c00000000535CDD500000000000016641
+t1398594896
+s91713
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default@2x~iphone.png
+c00000000535CDD500000000000007323
+t1398594896
+s29475
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default~iphone.png
+c00000000535CDD50000000000000289A
+t1398594896
+s10394
+
+N/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/main.m
+c00000000535CDD50000000000000045E
+t1398594896
+s1118
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o
+t1398594911
+s73932
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o
+t1398594911
+s50280
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o
+t1398594911
+s41476
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/HelloCordova.LinkFileList
+c00000000535CDD5C00000000000002BD
+t1398594908
+s701
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o
+t1398594911
+s51512
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o
+t1398594911
+s2948
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh
+c00000000535CDD5C000000000000002D
+t1398594908
+s45
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app
+t1398594911
+s1020
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM
+t2
+s0
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-568h@2x~iphone.png
+t1398594909
+s34225
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png
+t1398594909
+s212234
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Landscape~ipad.png
+t1398594909
+s91810
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png
+t1398594909
+s212860
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Portrait~ipad.png
+t1398594909
+s91713
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default@2x~iphone.png
+t1398594909
+s29475
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default~iphone.png
+t1398594909
+s10394
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova
+t1398594911
+s281472
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Info.plist
+t1398594908
+s1294
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/MainViewController.nib
+t1398594910
+s836
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/PkgInfo
+t2
+s0
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/de.lproj/Localizable.strings
+t1398594909
+s280
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/en.lproj/Localizable.strings
+t1398594908
+s166
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-40.png
+t1398594909
+s4082
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-40@2x.png
+t1398594908
+s7411
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-50.png
+t1398594909
+s4874
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-50@2x.png
+t1398594909
+s9611
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-60.png
+t1398594909
+s5811
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-60@2x.png
+t1398594909
+s11924
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-72.png
+t1398594908
+s4944
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-72@2x.png
+t1398594909
+s11706
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-76.png
+t1398594908
+s7025
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-76@2x.png
+t1398594909
+s15262
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-small.png
+t1398594909
+s3294
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-small@2x.png
+t1398594909
+s5608
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon.png
+t1398594908
+s3902
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon@2x.png
+t1398594908
+s7869
+
+N/Users/Aidan/Project/myApp/platforms/ios/build/emulator/libCordova.a
+c00000000535CDD5C00000000000D3500
+t1398594908
+s865536
+
+N/var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch.pch
+t1398594911
+s5376448
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb81dd2dc140db941^1d3cd3dc140db941^---0#1#1#--18"Check dependencies36"05FDC4EA-2444-4927-97EA-1C4942704776-
+
+CCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420287711.342495
+e420287711.399009
+r1
+xCompileC
+xbuild/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o
+x/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m
+d/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m211"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o HelloCordova/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb4e657df140db941^a22666df140db941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m0000000000000000^3800"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o HelloCordova/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.dia -c /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m -o /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o36"56538BD0-1BA1-4B15-8335-6BC2934EF05E-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420287711.344148
+e420287711.416187
+r1
+xCompileC
+xbuild/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o
+x/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+d/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m233"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler503758df140db941^588c6adf140db941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m0000000000000000^3840"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.d --serialize-diagnostics /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.dia -c /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m -o /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o36"ECF97DD5-4C77-4B9E-9B46-332259C12CF8-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420287711.343593
+e420287711.387571
+r1
+xCompileC
+xbuild/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o
+x/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m
+d/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m234"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3f1c58df140db941^713863df140db941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m0000000000000000^3842"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.d --serialize-diagnostics /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.dia -c /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m -o /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o36"52A7E8F0-E7AD-4760-A372-B1CDE21E4FF3-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420287711.342851
+e420287711.389044
+r1
+xCompileC
+xbuild/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o
+x/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m
+d/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m225"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o HelloCordova/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler11fc57df140db941^749863df140db941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m0000000000000000^3842"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o HelloCordova/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.dia -c /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m -o /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o36"83CFA59B-C3EA-4B97-99EA-2D5A86C7E464-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420287711.342245
+e420287711.363118
+r1
+xCompileC
+xbuild/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o
+x/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/main.m189"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o HelloCordova/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf1b957df140db941^5af65cdf140db941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/Aidan/Project/myApp/platforms/ios/HelloCordova/main.m0000000000000000^3742"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o HelloCordova/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator -include /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch -MMD -MT dependencies -MF /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.dia -c /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/main.m -o /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o36"1C13EF51-F14C-4FA2-A451-C1AFA4F73B58-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCompileXIB /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib
+s420287708.998780
+e420287711.130352
+r1
+xCompileXIB
+x/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib
+o2014-04-27 18:35:10.749 Interface Builder Cocoa Touch Tool[10649:303] CFPreferences: user home directory at file:///Users/Aidan/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compiling /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib54"CompileXIB HelloCordova/Classes/MainViewController.xibfad2ffdc140db941^746021df140db941^-230"2014-04-27 18:35:10.749 Interface Builder Cocoa Touch Tool[10649:303] CFPreferences: user home directory at file:///Users/Aidan/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib0000000000000000^944"CompileXIB HelloCordova/Classes/MainViewController.xib    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/MainViewController.nib /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib36"EF5E1F1A-9D45-40D0-A9F6-C359A85D8768-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCopyStringsFile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/de.lproj/Localizable.strings HelloCordova/Resources/de.lproj/Localizable.strings
+s420287708.999712
+e420287709.002246
+r1
+xCopyStringsFile
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/de.lproj/Localizable.strings
+xHelloCordova/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy HelloCordova/Resources/de.lproj/Localizable.strings128"CopyStringsFile build/emulator/HelloCordova.app/de.lproj/Localizable.strings HelloCordova/Resources/de.lproj/Localizable.stringsbf0a00dd140db941^8e9500dd140db941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/de.lproj/Localizable.strings0000000000000000^759"CopyStringsFile build/emulator/HelloCordova.app/de.lproj/Localizable.strings HelloCordova/Resources/de.lproj/Localizable.strings    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/de.lproj -- HelloCordova/Resources/de.lproj/Localizable.strings36"8E80E9E5-7D19-4EEE-BE4A-DA58FE6D0B71-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCopyStringsFile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/en.lproj/Localizable.strings HelloCordova/Resources/en.lproj/Localizable.strings
+s420287708.998368
+e420287708.999732
+r1
+xCopyStringsFile
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/en.lproj/Localizable.strings
+xHelloCordova/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy HelloCordova/Resources/en.lproj/Localizable.strings128"CopyStringsFile build/emulator/HelloCordova.app/en.lproj/Localizable.strings HelloCordova/Resources/en.lproj/Localizable.stringsf6b4ffdc140db941^f6eeffdc140db941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/en.lproj/Localizable.strings0000000000000000^759"CopyStringsFile build/emulator/HelloCordova.app/en.lproj/Localizable.strings HelloCordova/Resources/en.lproj/Localizable.strings    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/en.lproj -- HelloCordova/Resources/en.lproj/Localizable.strings36"787B463D-6277-40E5-A33A-CD177263EC63-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon-40.png build/emulator/HelloCordova.app/icon-40.png
+s420287709.002919
+e420287709.004027
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-40.png
+xbuild/emulator/HelloCordova.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/HelloCordova.app/icon-40.png95"CpResource HelloCordova/Resources/icons/icon-40.png build/emulator/HelloCordova.app/icon-40.png89d000dd140db941^850b01dd140db941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-40.png0034a400dfffdf42^766"CpResource HelloCordova/Resources/icons/icon-40.png build/emulator/HelloCordova.app/icon-40.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-40.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"F0EAC2CF-1AE9-4C9D-ADE1-91AFA4562C6F-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon-40@2x.png build/emulator/HelloCordova.app/icon-40@2x.png
+s420287708.997227
+e420287708.998186
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-40@2x.png
+xbuild/emulator/HelloCordova.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/HelloCordova.app/icon-40@2x.png101"CpResource HelloCordova/Resources/icons/icon-40@2x.png build/emulator/HelloCordova.app/icon-40@2x.pnga357ffdc140db941^029fffdc140db941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-40@2x.png0034a400dfffdf42^775"CpResource HelloCordova/Resources/icons/icon-40@2x.png build/emulator/HelloCordova.app/icon-40@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-40@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"FACBED39-E62B-4E5C-98CC-DE3B3782637C-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon-50.png build/emulator/HelloCordova.app/icon-50.png
+s420287708.999151
+e420287709.000281
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-50.png
+xbuild/emulator/HelloCordova.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/HelloCordova.app/icon-50.png95"CpResource HelloCordova/Resources/icons/icon-50.png build/emulator/HelloCordova.app/icon-50.png5ce7ffdc140db941^221b00dd140db941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-50.png0034a400dfffdf42^766"CpResource HelloCordova/Resources/icons/icon-50.png build/emulator/HelloCordova.app/icon-50.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-50.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"8E7E60E9-88EF-463A-9027-DD20F128CD58-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon-50@2x.png build/emulator/HelloCordova.app/icon-50@2x.png
+s420287709.006024
+e420287709.007584
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-50@2x.png
+xbuild/emulator/HelloCordova.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/HelloCordova.app/icon-50@2x.png101"CpResource HelloCordova/Resources/icons/icon-50@2x.png build/emulator/HelloCordova.app/icon-50@2x.png42b101dd140db941^2ae101dd140db941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-50@2x.png0034a400dfffdf42^775"CpResource HelloCordova/Resources/icons/icon-50@2x.png build/emulator/HelloCordova.app/icon-50@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-50@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"F46498AC-1DD1-4893-83B1-89A0DF695F1E-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon-60.png build/emulator/HelloCordova.app/icon-60.png
+s420287709.003844
+e420287709.006013
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-60.png
+xbuild/emulator/HelloCordova.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/HelloCordova.app/icon-60.png95"CpResource HelloCordova/Resources/icons/icon-60.png build/emulator/HelloCordova.app/icon-60.png051501dd140db941^eb8e01dd140db941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-60.png0034a400dfffdf42^766"CpResource HelloCordova/Resources/icons/icon-60.png build/emulator/HelloCordova.app/icon-60.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-60.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"3AC7AFEC-C40F-4B24-87A3-A47195E1B748-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon-60@2x.png build/emulator/HelloCordova.app/icon-60@2x.png
+s420287708.999378
+e420287709.000288
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-60@2x.png
+xbuild/emulator/HelloCordova.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/HelloCordova.app/icon-60@2x.png101"CpResource HelloCordova/Resources/icons/icon-60@2x.png build/emulator/HelloCordova.app/icon-60@2x.pngbce8ffdc140db941^072900dd140db941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-60@2x.png0034a400dfffdf42^775"CpResource HelloCordova/Resources/icons/icon-60@2x.png build/emulator/HelloCordova.app/icon-60@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-60@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"6649CF0D-0B59-4C51-8BA4-71F47789B468-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon-72.png build/emulator/HelloCordova.app/icon-72.png
+s420287708.997350
+e420287708.998574
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-72.png
+xbuild/emulator/HelloCordova.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/HelloCordova.app/icon-72.png95"CpResource HelloCordova/Resources/icons/icon-72.png build/emulator/HelloCordova.app/icon-72.pnge068ffdc140db941^39b5ffdc140db941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-72.png0034a400dfffdf42^766"CpResource HelloCordova/Resources/icons/icon-72.png build/emulator/HelloCordova.app/icon-72.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-72.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"EB78A132-1547-4EFB-B1CF-8BAA5A184490-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon-72@2x.png build/emulator/HelloCordova.app/icon-72@2x.png
+s420287709.006787
+e420287709.007644
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-72@2x.png
+xbuild/emulator/HelloCordova.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/HelloCordova.app/icon-72@2x.png101"CpResource HelloCordova/Resources/icons/icon-72@2x.png build/emulator/HelloCordova.app/icon-72@2x.pnge6cd01dd140db941^05f901dd140db941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-72@2x.png0034a400dfffdf42^775"CpResource HelloCordova/Resources/icons/icon-72@2x.png build/emulator/HelloCordova.app/icon-72@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-72@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"9CAE97A8-69B5-4F68-B782-EBA0E1CDF479-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon-76.png build/emulator/HelloCordova.app/icon-76.png
+s420287708.997100
+e420287708.997955
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-76.png
+xbuild/emulator/HelloCordova.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/HelloCordova.app/icon-76.png95"CpResource HelloCordova/Resources/icons/icon-76.png build/emulator/HelloCordova.app/icon-76.png404fffdc140db941^f67affdc140db941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-76.png0034a400dfffdf42^766"CpResource HelloCordova/Resources/icons/icon-76.png build/emulator/HelloCordova.app/icon-76.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-76.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"63D15BFE-2F9A-4EEE-BC68-FC5296587AD6-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon-76@2x.png build/emulator/HelloCordova.app/icon-76@2x.png
+s420287709.006520
+e420287709.007476
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-76@2x.png
+xbuild/emulator/HelloCordova.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/HelloCordova.app/icon-76@2x.png101"CpResource HelloCordova/Resources/icons/icon-76@2x.png build/emulator/HelloCordova.app/icon-76@2x.png12c001dd140db941^96eb01dd140db941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-76@2x.png0034a400dfffdf42^775"CpResource HelloCordova/Resources/icons/icon-76@2x.png build/emulator/HelloCordova.app/icon-76@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-76@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"A47EE3DD-0911-47C1-958F-C141E8ECEDD8-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon-small.png build/emulator/HelloCordova.app/icon-small.png
+s420287709.000017
+e420287709.002112
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-small.png
+xbuild/emulator/HelloCordova.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/HelloCordova.app/icon-small.png101"CpResource HelloCordova/Resources/icons/icon-small.png build/emulator/HelloCordova.app/icon-small.png992a00dd140db941^328f00dd140db941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-small.png0034a400dfffdf42^775"CpResource HelloCordova/Resources/icons/icon-small.png build/emulator/HelloCordova.app/icon-small.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-small.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"2DB13E80-7F67-4B2B-BAC7-0639AC1EF376-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon-small@2x.png build/emulator/HelloCordova.app/icon-small@2x.png
+s420287709.002566
+e420287709.003421
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-small@2x.png
+xbuild/emulator/HelloCordova.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/HelloCordova.app/icon-small@2x.png107"CpResource HelloCordova/Resources/icons/icon-small@2x.png build/emulator/HelloCordova.app/icon-small@2x.pngc0b400dd140db941^6ff100dd140db941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-small@2x.png0034a400dfffdf42^784"CpResource HelloCordova/Resources/icons/icon-small@2x.png build/emulator/HelloCordova.app/icon-small@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon-small@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"382B316F-C01D-46B4-9B4E-77F6FB2773D2-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon.png build/emulator/HelloCordova.app/icon.png
+s420287708.997541
+e420287708.998545
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon.png
+xbuild/emulator/HelloCordova.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/emulator/HelloCordova.app/icon.png89"CpResource HelloCordova/Resources/icons/icon.png build/emulator/HelloCordova.app/icon.png9b70ffdc140db941^62bfffdc140db941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon.png0034a400dfffdf42^757"CpResource HelloCordova/Resources/icons/icon.png build/emulator/HelloCordova.app/icon.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"004B2D57-337E-4FDA-A9EE-73C5DABEE2CD-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/icons/icon@2x.png build/emulator/HelloCordova.app/icon@2x.png
+s420287708.997746
+e420287708.998829
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon@2x.png
+xbuild/emulator/HelloCordova.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/HelloCordova.app/icon@2x.png95"CpResource HelloCordova/Resources/icons/icon@2x.png build/emulator/HelloCordova.app/icon@2x.pngf486ffdc140db941^fbceffdc140db941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/icon@2x.png0034a400dfffdf42^766"CpResource HelloCordova/Resources/icons/icon@2x.png build/emulator/HelloCordova.app/icon@2x.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/icons/icon@2x.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"FE59632D-3049-488B-A8B8-C941C502E606-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloCordova.app/Default-568h@2x~iphone.png
+s420287709.004500
+e420287709.006506
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/HelloCordova.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/HelloCordova.app/Default-568h@2x~iphone.png126"CpResource HelloCordova/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloCordova.app/Default-568h@2x~iphone.png2f3601dd140db941^d6aa01dd140db941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-568h@2x~iphone.png0034a400dfffdf42^813"CpResource HelloCordova/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloCordova.app/Default-568h@2x~iphone.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default-568h@2x~iphone.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"AD0CC24E-24EF-41C9-8354-74A9EA76C6B3-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png
+s420287709.000327
+e420287709.003351
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png132"CpResource HelloCordova/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.pngcb2e00dd140db941^9cdf00dd140db941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png0034a400dfffdf42^822"CpResource HelloCordova/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Landscape@2x~ipad.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"4EC2882F-E9A2-49F5-A0C0-C7744B9879F5-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloCordova.app/Default-Landscape~ipad.png
+s420287709.000879
+e420287709.003385
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/HelloCordova.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/HelloCordova.app/Default-Landscape~ipad.png126"CpResource HelloCordova/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloCordova.app/Default-Landscape~ipad.pngf54b00dd140db941^8fe200dd140db941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Landscape~ipad.png0034a400dfffdf42^813"CpResource HelloCordova/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloCordova.app/Default-Landscape~ipad.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Landscape~ipad.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"E8416C02-D70D-4168-8805-99348B2176A6-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png
+s420287709.002405
+e420287709.003402
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png130"CpResource HelloCordova/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png3fab00dd140db941^e2e600dd140db941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png0034a400dfffdf42^819"CpResource HelloCordova/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Portrait@2x~ipad.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"883BE9C0-9719-4EED-A319-680932307346-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloCordova.app/Default-Portrait~ipad.png
+s420287709.002697
+e420287709.003728
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/HelloCordova.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/emulator/HelloCordova.app/Default-Portrait~ipad.png124"CpResource HelloCordova/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloCordova.app/Default-Portrait~ipad.png49bc00dd140db941^cbf700dd140db941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Portrait~ipad.png0034a400dfffdf42^810"CpResource HelloCordova/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloCordova.app/Default-Portrait~ipad.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Portrait~ipad.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"389372EA-DBFF-45B7-818D-C5A319C4A4AB-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/splash/Default@2x~iphone.png build/emulator/HelloCordova.app/Default@2x~iphone.png
+s420287709.003329
+e420287709.004326
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/HelloCordova.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/emulator/HelloCordova.app/Default@2x~iphone.png116"CpResource HelloCordova/Resources/splash/Default@2x~iphone.png build/emulator/HelloCordova.app/Default@2x~iphone.png02f300dd140db941^d21c01dd140db941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default@2x~iphone.png0034a400dfffdf42^798"CpResource HelloCordova/Resources/splash/Default@2x~iphone.png build/emulator/HelloCordova.app/Default@2x~iphone.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default@2x~iphone.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"CDF3C7E3-41A1-44C8-B281-0B67382D7E06-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CCpResource HelloCordova/Resources/splash/Default~iphone.png build/emulator/HelloCordova.app/Default~iphone.png
+s420287709.004139
+e420287709.006319
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default~iphone.png
+xbuild/emulator/HelloCordova.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/emulator/HelloCordova.app/Default~iphone.png110"CpResource HelloCordova/Resources/splash/Default~iphone.png build/emulator/HelloCordova.app/Default~iphone.png352501dd140db941^739e01dd140db941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Default~iphone.png0034a400dfffdf42^789"CpResource HelloCordova/Resources/splash/Default~iphone.png build/emulator/HelloCordova.app/Default~iphone.png    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/Resources/splash/Default~iphone.png /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"22F621E2-42E9-4EA6-9DBD-81F1744D6000-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CGenerateDSYMFile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova
+s420287711.496263
+e420287711.543157
+r1
+xGenerateDSYMFile
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Generate /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM98"GenerateDSYMFile build/emulator/HelloCordova.app.dSYM build/emulator/HelloCordova.app/HelloCordovaa8187fdf140db941^aa0c8bdf140db941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM0034a400dfffdf42^769"GenerateDSYMFile build/emulator/HelloCordova.app.dSYM build/emulator/HelloCordova.app/HelloCordova    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova -o /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM36"A43F7D8B-25B8-421C-8451-3152CBD6237B-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CLd /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova normal i386
+s420287711.417287
+e420287711.495597
+r1
+xLd
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova
+xnormal
+xi386
+d/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/HelloCordova.LinkFileList
+d/Users/Aidan/Project/myApp/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o
+d/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o
+d/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o
+d/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o
+d/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Link /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova59"Ld build/emulator/HelloCordova.app/HelloCordova normal i3862ae46adf140db941^d2e07edf140db941^---0#0#1#--1813"Ld build/emulator/HelloCordova.app/HelloCordova normal i386    cd /Users/Aidan/Project/myApp/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Aidan/Project/myApp/platforms/ios/build/emulator -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator -filelist /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/HelloCordova.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/Aidan/Project/myApp/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework AssetsLibrary /Users/Aidan/Project/myApp/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/HelloCordova_dependency_info.dat -o /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova36"1C2332AD-0017-4A5C-B0EF-917FE647D88F-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CPhaseScriptExecution Copy\ www\ directory /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh
+s420287708.828285
+e420287708.996738
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.151s
+ouser	0m0.059s
+osys	0m0.089s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'142"PhaseScriptExecution Copy\ www\ directory build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh6a4cd4dc140db941^aa2bffdc140db941^-42"real	0m0.151suser	0m0.059ssys	0m0.089s3(21%IDEActivityLogMessage2@14"real	0m0.151s-420287708#1#14#-0#-----2@14"user	0m0.059s-420287708#15#14#-0#-----2@13"sys	0m0.089s-420287708#29#13#-0#-----0#0#1#--348"PhaseScriptExecution Copy\ www\ directory build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Aidan/Project/myApp/platforms/ios    /bin/sh -c /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh36"CCA67C8C-CF10-41C9-8D8F-4D8B20BE097C-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CProcessInfoPlistFile /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Info.plist /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist
+s420287708.825636
+e420287708.827245
+r1
+xProcessInfoPlistFile
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Info.plist
+x/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Process /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist100"ProcessInfoPlistFile build/emulator/HelloCordova.app/Info.plist HelloCordova/HelloCordova-Info.plist906bd3dc140db941^53e9d3dc140db941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/Aidan/Project/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist0000000000000000^853"ProcessInfoPlistFile build/emulator/HelloCordova.app/Info.plist HelloCordova/HelloCordova-Info.plist    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    builtin-infoPlistUtility /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist -genpkginfo /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app/Info.plist36"3F63E85A-9559-478F-9DE5-955F67EF33E0-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CProcessPCH /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch.pch HelloCordova/HelloCordova-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420287711.131029
+e420287711.341510
+r1
+xProcessPCH
+x/var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch.pch
+xHelloCordova/HelloCordova-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Aidan/Project/myApp/platforms/ios/HelloCordova/HelloCordova-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile HelloCordova/HelloCordova-Prefix.pch310"ProcessPCH /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch.pch HelloCordova/HelloCordova-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler77a121df140db941^b56e57df140db941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/Aidan/Project/myApp/platforms/ios/HelloCordova/HelloCordova-Prefix.pch0000000000000000^3866"ProcessPCH /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch.pch HelloCordova/HelloCordova-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Aidan/Project/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Aidan/Project/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/Aidan/Project/myApp/platforms/ios/build/emulator -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/Aidan/Project/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/Aidan/Project/myApp/platforms/ios/build/emulator --serialize-diagnostics /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch.d -c /Users/Aidan/Project/myApp/platforms/ios/HelloCordova/HelloCordova-Prefix.pch -o /var/folders/yf/49vm_h4126n2twfpfwzyk4_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-frbagcoepbclzobsskbdyhuosyyr/HelloCordova-Prefix.pch.pch36"6242D1A8-0888-48F8-BB64-F90FBCC79717-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
+CTouch /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app
+s420287711.544019
+e420287711.547614
+r1
+xTouch
+x/Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Touch /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app37"Touch build/emulator/HelloCordova.appce518bdf140db941^cf318cdf140db941^---0#0#1#--536"Touch build/emulator/HelloCordova.app    cd /Users/Aidan/Project/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1/bin:/Users/Aidan/.rvm/gems/ruby-2.1.1@global/bin:/Users/Aidan/.rvm/rubies/ruby-2.1.1/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/Aidan/.rvm/bin"    /usr/bin/touch -c /Users/Aidan/Project/myApp/platforms/ios/build/emulator/HelloCordova.app36"476F8B58-676A-4BF8-B58B-7709CA9B951E-
+b0A046750-102E-4F5B-9C01-77FEEFA17F05
+
